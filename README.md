@@ -24,14 +24,22 @@ This category investigates the post-pandemic effects on people's mental and phys
 ### 4. Vaccination
 This category highlights the role of vaccinations in mitigating the pandemic. We showcase the number of people vaccinated with different doses (dose 1, dose 2, booster shot) across various regions, with a focus on the United States. We aim to raise awareness about the importance of vaccination in controlling and eradicating the epidemic.
 
+## Instructions to Run TWB File
+### Using Tableau Desktop:
+1. **Install Tableau Desktop**: If you don't have Tableau Desktop installed, you can download and install it from the [Tableau website](https://www.tableau.com/products/desktop).
+2. **Open Tableau Desktop**: Launch Tableau Desktop on your computer.
+3. **Open the TWB File**:
+   - Download the DSCI Project.twb file
+   - Click on `File` in the top menu.
+   - Select `Open...` from the dropdown menu.
+   - Navigate to the location of the TWB file in the repository.
+   - Select the TWB file and click `Open`.
+     
 ## Methodology
 Our data scientists have worked tirelessly during the pandemic to collect, analyze, and present data in an accessible format. We use various data visualization tools to create informative and engaging graphs and charts that illustrate the pandemic's impact.
 
 ## Contribution
 We welcome contributions from the community. If you have any data, insights, or visualizations to share, please submit a pull request or contact our team.
-
-## Contact
-For any questions or collaborations, please reach out to our team at [email@example.com].
 
 ## Acknowledgments
 We would like to thank all the healthcare workers, data scientists, and researchers who have contributed to this project and the ongoing fight against the pandemic.
